@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASP.NETCoreWebApplication", "ASP.NETCoreWebApplication\ASP.NETCoreWebApplication.csproj", "{13ABF996-9508-4E4B-B316-F5FF00061BFB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASP.NETCoreWebApplication", "ASP.NETCoreWebApplication\ASP.NETCoreWebApplication.csproj", "{18F1159A-89B5-4609-8734-F4566F46F285}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -8,9 +8,9 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{13ABF996-9508-4E4B-B316-F5FF00061BFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{13ABF996-9508-4E4B-B316-F5FF00061BFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{13ABF996-9508-4E4B-B316-F5FF00061BFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{13ABF996-9508-4E4B-B316-F5FF00061BFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18F1159A-89B5-4609-8734-F4566F46F285}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18F1159A-89B5-4609-8734-F4566F46F285}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18F1159A-89B5-4609-8734-F4566F46F285}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18F1159A-89B5-4609-8734-F4566F46F285}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
